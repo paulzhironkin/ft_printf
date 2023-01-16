@@ -6,7 +6,7 @@
 #    By: latahbah <latahbah@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/09 16:18:28 by latahbah          #+#    #+#              #
-#    Updated: 2021/11/09 22:40:06 by latahbah         ###   ########.fr        #
+#    Updated: 2023/01/16 16:33:45 by latahbah         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,7 +22,7 @@ OBJ = $(patsubst %.c,%.o,$(LIST))
 D_FILES = $(patsubst %.c,%.d,$(LIST))
 
 OPTFLAGS = -O2
-FLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra
 
 all: $(NAME)
 
