@@ -9,25 +9,25 @@ Ft_printf made as part of the "libftprintf" library, which creates atfer compili
 Clone repo and promt "make":
 
 ```Bash
-make
+$ make
 ```
 
 To clean object files:
 
 ```Bash
-make clean
+$ make clean
 ```
 
 To clean object and library files:
 
 ```Bash
-make fclean
+$ make fclean
 ```
 
 To remake:
 
 ```Bash
-make re
+$ make re
 ```
 
 After "make" `libftprintf.a` library file can be used in projects
