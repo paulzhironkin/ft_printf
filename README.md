@@ -4,7 +4,7 @@ In this project I recreated basic functional of standart printf() function
 
 Ft_printf made as part of the "libftprintf" library, which creates atfer compiling project.
 
-### How to use:
+### How to build:
 
 Clone repo and promt "make":
 
