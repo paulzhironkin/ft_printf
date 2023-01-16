@@ -1,4 +1,4 @@
-# Ecole 42: Ft_printf
+# Ecole 42: ft_printf
 
 In this project I recreated basic functional of standart printf() function
 
