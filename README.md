@@ -6,7 +6,7 @@ Ft_printf made as part of the "libftprintf" library, which creates atfer compili
 
 ### How to build:
 
-Clone repo and promt "make":
+Clone repo and type:
 
 ```Bash
 $ make
